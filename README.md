@@ -1,2 +1,3 @@
 # genAI-genomics
-dunno
+> comin soon
+
